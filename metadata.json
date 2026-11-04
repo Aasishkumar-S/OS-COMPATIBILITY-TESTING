@@ -1,0 +1,6 @@
+{
+  "name": "MobileTest Guardian",
+  "description": "Comprehensive automated mobile application quality assessment and compatibility testing framework with APK analysis, device compatibility, UI test automation, crash logging, visual regression diffs, performance telemetry, and B.Tech project documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
